@@ -1,0 +1,9 @@
+---
+title: "About this blog"
+description: |
+  A Canadian medical resident reviewing literature and sharing other cool research stuff.
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
